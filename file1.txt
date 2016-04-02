@@ -1,2 +1,5 @@
-hello this is file 1.
+Rebased master into branch_file_2
+this is file 1.
 Oh, a new line!
+bye this is file 1.
+
